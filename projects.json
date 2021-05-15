@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Trivia Pursuit",
+      "live": "https://sn-trivia-git-master-sandeepnukala1.vercel.app/",
+      "git": "https://github.com/sandeepnukala1/Trivia-Pursuit",
+      "image": "https://i.imgur.com/wwao5Qy.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "PROformance",
+      "live": "https://proexpressapp.herokuapp.com/",
+      "git": "https://github.com/sandeepnukala1/express-mongoose-project-2",
+      "image": "https://i.imgur.com/gFPEDfc.png"
     }
   ]
